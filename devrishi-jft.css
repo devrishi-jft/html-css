@@ -1,0 +1,50 @@
+body{
+			background:antiquewhite;
+		}
+		header{
+			background-color: lightblue;
+			color: white;
+			text-align: center;
+		}
+		article{
+			margin:  50px;	
+		}
+		.left{
+			float: left;
+			width: 40%;
+			box-sizing: border-box;
+		}
+		.right{
+			float: right;
+			width:40%;
+			box-sizing: border-box;
+		}
+
+		footer{
+			background-color: black;
+			color: white;
+			text-align: center;
+		}
+		th{
+			padding:0 100px ;
+		}
+		.blu{
+			color:blue;
+			font-size: 110%;
+		}
+		.cen{
+			text-align: center;
+			width: 100%;
+			clear: both;
+		}
+		.f{
+			background-color: white;
+			margin: auto;
+			padding: 20px;
+			padding-bottom: 40px;
+			width: 80%;
+		}
+		input{
+			border-width: 0px 0px 2px 0px;
+		}
+	
